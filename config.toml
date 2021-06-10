@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "JAMsite"
+theme = "tale"
+
+[outputs]
+    home = ["HTML", "JSON"]
